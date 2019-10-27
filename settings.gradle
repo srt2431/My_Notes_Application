@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='insert_update_delete'
